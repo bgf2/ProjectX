@@ -1,4 +1,4 @@
-DarkWeb pages overview (yet another one) is designed to show DarkWeb specific pages, software and other things.
+DarkWeb pages overview (yet another one) is designed to show [Deep Web](https://en.wikipedia.org/wiki/Deep_Web) specific pages, software and other things.
 
 
 Software Projects
@@ -89,7 +89,7 @@ Darknet Products - http://darknet-products.i2p
 
 Social
 
-Forum - http://forum.i2p
+I2p Forum - http://forum.i2p
 ID3nt - http://id3nt.i2p
 IRC - irc.stream.i2p || irc.puredev.i2p || irc.philabs.i2p || irc.dlms.i2p
 Jisko - http://jisko.i2p
@@ -118,8 +118,9 @@ Search - gnunet://ecrs/ksk/KEY-WORD
 Miscellaneous (GNUnet)
 
 GNU GPL License -
-
+```
 gnunet://ecrs/chk/9E4MDN4VULE8KJG6U1C8FKH5HA8C5CHSJTILRTTPGK8MJ6VHORERHE68JU8Q0FDTOH1DGLUJ3NLE99N0ML0N9PIBAGKG7MNPBTT6UKG.1I823C58O3LKS24LLI9KB384LH82LGF9GUQRJHACCUINSCQH36SI4NF88CMAET3T3BHI93D4S0M5CC6MVDL1K8GFKVBN69Q6T307U6O.17992
+```
 
 Tor (Onionland/Darknet) Index
 
@@ -220,7 +221,9 @@ PPcoin (PeerCoin) - http://peercoin.net/
 
 Tips
 
-To disable the webcam on a Linux system, run modprobe -r uvcvideo with Root privileges.
+To disable the webcam on a Linux system, run <code>modprobe -r uvcvideo</code> with Root privileges.
+
+
 Helpful Links
 
 .bit Project - http://dot-bit.org
@@ -243,3 +246,4 @@ Internet Censorship (Wikipedia) - https://en.wikipedia.org/wiki/Internet_censors
 Mass surveillance (Wikipedia) - https://en.wikipedia.org/wiki/Mass_surveillance
 Censorship by Country (Wikipedia) - https://en.wikipedia.org/wiki/Internet_censorship_and_surveillance_by_country
 List of cryptocurrencies (Wikipedia) - https://en.wikipedia.org/wiki/List_of_cryptocurrencies
+Deep Web - Reddit - https://www.reddit.com/r/deepweb
