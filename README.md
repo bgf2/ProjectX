@@ -12,9 +12,8 @@ DarkWeb pages overview (yet another one) is designed to show [Deep Web](https://
 * [Tor Project](https://www.torproject.org/) & [Source](https://gitweb.torproject.org/)
 * JAP (Jondonym-Anonymous-Proxy-Server)
 * Retroshare
-* Shadowsocks (bypass firewalls)
-* Orky
-* Drony / Orxify / Orbot
+* Shadowsocks (bypass e.g. chinese firewalls)
+* Drony / Orxify / Orbot / Orky
 
 
 **DarkWeb Gateways**
@@ -24,15 +23,15 @@ These websites allow people to access DarkWeb sites without needing additional s
 * [Fproxy](http://www.fproxy.nl/) (access to free sites)
 * [Fproxy.net](https://fproxy.net/) (access to free sites)
 * [Onion City](http://onion.city/) (access to onion sites) 
-* [Onion Nu](http://onion.nu/) (access onion and i2p sites)
-* [Tor2Web](https://www.tor2web.org/) (access onion sites)
+* [Onion Nu](http://onion.nu/) (access to onion and i2p sites)
+* [Tor2Web](https://www.tor2web.org/) (access to onion sites)
+
+
 
 
 **I2P Index (Eepsites)**
 
-To use I2P (https://geti2p.net/), obtain and install the I2P jar file (https://geti2p.net/download). To access I2P in Firefox, install the "FoxyProxy" extension. Then, configure FoxyProxy to use the 127.0.0.1 IP Address and port 4444. Furthermore, use port 4445 for SSL, HTTPS, and SOCKS; set the URL pattern to *.i2p*. If using Tor, use the same instructions as Firefox, but use the "Torbutton Preferences" instead of FoxyProxy.
-
-
+To use I2P (https://geti2p.net/), obtain and install the I2P jar file (https://geti2p.net/download). To access I2P in Firefox, install the "FoxyProxy" extension (see link below). Then, configure FoxyProxy to use the 127.0.0.1 IP Address and port 4444. Furthermore, use port 4445 for SSL, HTTPS, and SOCKS; set the URL pattern to *.i2p*. If using Tor, use the same instructions as Firefox, but use the "Torbutton Preferences" instead of FoxyProxy.
 
 
 ** Directory (I2P)**
@@ -87,7 +86,7 @@ To use I2P (https://geti2p.net/), obtain and install the I2P jar file (https://g
 * [Stats](http://stats.i2p)
 
 
-**OutProxies**
+**Outgoing Proxies**
 
 * [ExitProxy](http://exitproxy.i2p)
 * [Meeh's Tor Outproxy](http://meeh.i2p/?p=services&sp=other)
@@ -147,7 +146,8 @@ NOTE: I2P domain names resolve to a 516-byte (or longer) key that specifies the 
 * Files by namespace - <code>gnunet://ecrs/sks/NAMESPACE/IDENTIFIER</code>
 * Search - <code>gnunet://ecrs/ksk/KEY-WORD</code>
 
-**Miscellaneous (GNUnet)**
+
+**GNUnet**
 
 **GNU GPL License**
 ```
@@ -176,7 +176,7 @@ gnunet://ecrs/chk/9E4MDN4VULE8KJG6U1C8FKH5HA8C5CHSJTILRTTPGK8MJ6VHORERHE68JU8Q0F
 * [OnionList](http://jh32yv5zgayyyts3.onion/)
 * [Onion URL Repository]( http://32rfckwuorlf4dlv.onion/)
 * [Onion Wiki](http://wiki5kauuihowqi5.onion/)
-* paraZite - http://kpynyvym6xqi7wz2.onion/ || http://qx7j2selmom4ioxf.onion/
+* paraZite - http://kpynyvym6xqi7wz2.onion/ & [mirror](http://qx7j2selmom4ioxf.onion/)
 * [Tor Links](http://torlinkbgs6aabns.onion/)
 * [Tor Wiki](http://torwikignoueupfm.onion/)
 
@@ -185,6 +185,7 @@ gnunet://ecrs/chk/9E4MDN4VULE8KJG6U1C8FKH5HA8C5CHSJTILRTTPGK8MJ6VHORERHE68JU8Q0F
 
 * [BitMessage](http://bitmailendavkbec.onion/)
 * [SIGAINT](http://sigaintevyh2rzvw.onion/)
+* [Tor Mail](http://jhiwjjlqpyawmpjx.onion/)
 
 
 **Ebooks**
@@ -288,3 +289,4 @@ gnunet://ecrs/chk/9E4MDN4VULE8KJG6U1C8FKH5HA8C5CHSJTILRTTPGK8MJ6VHORERHE68JU8Q0F
 * [List of cryptocurrencies (Wikipedia)](https://en.wikipedia.org/wiki/List_of_cryptocurrencies)
 * [Deep Web - Reddit](https://www.reddit.com/r/deepweb)
 * [Massive Deep Web Links 2015](http://securityzap.com/massive-deep-web-links-2015-updated-june-2015/#sthash.SoD6BtvO.dpbs)
+* [(.pdf) Tor Security overview at BlackHat (for experts)](https://www.blackhat.com/presentations/bh-usa-07/Perry/Whitepaper/bh-usa-07-perry-WP.pdf)
