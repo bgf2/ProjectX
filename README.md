@@ -1,3 +1,6 @@
+ProjectX file original created under the MIT license 2015 by [CHEF-KOCH](https://github.com/CHEF-KOCH).
+
+
 DarkWeb pages overview (yet another one) is designed to show [Deep Web](https://en.wikipedia.org/wiki/Deep_Web) specific pages, software and other things.
 
 
@@ -7,6 +10,11 @@ DarkWeb pages overview (yet another one) is designed to show [Deep Web](https://
 * [GNUnet](https://gnunet.org/) & [Source](https://github.com/GNUnet/gnunet)
 * [I2P Project](https://geti2p.net/)
 * [Tor Project](https://www.torproject.org/) & [Source](https://gitweb.torproject.org/)
+* JAP (Jondonym-Anonymous-Proxy-Server)
+* Retroshare
+* Shadowsocks (bypass firewalls)
+* Orky
+* Drony / Orxify / Orbot
 
 
 **DarkWeb Gateways**
@@ -23,7 +31,11 @@ These websites allow people to access DarkWeb sites without needing additional s
 **I2P Index (Eepsites)**
 
 To use I2P (https://geti2p.net/), obtain and install the I2P jar file (https://geti2p.net/download). To access I2P in Firefox, install the "FoxyProxy" extension. Then, configure FoxyProxy to use the 127.0.0.1 IP Address and port 4444. Furthermore, use port 4445 for SSL, HTTPS, and SOCKS; set the URL pattern to *.i2p*. If using Tor, use the same instructions as Firefox, but use the "Torbutton Preferences" instead of FoxyProxy.
-Directory (I2P)
+
+
+
+
+** Directory (I2P)**
 
 * [I2Host](http://i2host.i2p) 
 * [paraZites](loinen.i2p)
@@ -47,11 +59,11 @@ Directory (I2P)
 
 **Gaming**
 
-[I2P Chess Client](http://chess.i2p)
-[I2Play](http://i2play.i2p)
+* [I2P Chess Client](http://chess.i2p)
+* [I2Play](http://i2play.i2p)
 
 
-**Messaging**
+**Messaging I2P or Tor**
 
 * [Haste XMPP](http://haste.i2p)
 * [I2P-Bote](http://i2pbote.i2p)
@@ -94,6 +106,8 @@ Directory (I2P)
 * [Eepsites](http://eepsites.i2p)
 * [Epsilon](http://epsilon.i2p)
 * [Eye](http://eye.i2p)
+* http://osearchkiq5mvet6.onion/
+* http://hss3uro2hsxfogfq.onion/
 
 
 **Shopping (I2P)**
@@ -130,7 +144,7 @@ NOTE: I2P domain names resolve to a 516-byte (or longer) key that specifies the 
 * ECRS Module - <code>gnunet://ecrs/</code>
 * Data on Peer - <code>gnunet://ecrs/loc/PEER/QUERY.TYPE.KEY.SIZE</code>
 * Files - <code>gnunet://ecrs/chk/HASH.QUERY-HASH.FILESIZE-BYTES</code>
-Files by namespace - gnunet://ecrs/sks/NAMESPACE/IDENTIFIER</code>
+* Files by namespace - <code>gnunet://ecrs/sks/NAMESPACE/IDENTIFIER</code>
 * Search - <code>gnunet://ecrs/ksk/KEY-WORD</code>
 
 **Miscellaneous (GNUnet)**
@@ -189,6 +203,7 @@ gnunet://ecrs/chk/9E4MDN4VULE8KJG6U1C8FKH5HA8C5CHSJTILRTTPGK8MJ6VHORERHE68JU8Q0F
 * [Tor Ads](http://toradsc6vvmtugty.onion/)
 * [Tor Project](http://sv423uljolacrab5.onion/)
 * [Tor Web Developer](http://qizriixqwmeq4p5b.onion/)
+* [Tor Onion](http://eqt5g4fuenphqinx.onion/)
 
 
 **Search Engines**
@@ -245,7 +260,7 @@ gnunet://ecrs/chk/9E4MDN4VULE8KJG6U1C8FKH5HA8C5CHSJTILRTTPGK8MJ6VHORERHE68JU8Q0F
 
 **Tips**
 
-* To disable the webcam on a Linux system, run <code>modprobe -r uvcvideo</code> with Root privileges.
+* To disable the webcam on a Linux system, just run <code>modprobe -r uvcvideo</code> with Root privileges.
 
 
 **Helpful Links**
@@ -272,3 +287,4 @@ gnunet://ecrs/chk/9E4MDN4VULE8KJG6U1C8FKH5HA8C5CHSJTILRTTPGK8MJ6VHORERHE68JU8Q0F
 * [Censorship by Country (Wikipedia)](https://en.wikipedia.org/wiki/Internet_censorship_and_surveillance_by_country)
 * [List of cryptocurrencies (Wikipedia)](https://en.wikipedia.org/wiki/List_of_cryptocurrencies)
 * [Deep Web - Reddit](https://www.reddit.com/r/deepweb)
+* [Massive Deep Web Links 2015](http://securityzap.com/massive-deep-web-links-2015-updated-june-2015/#sthash.SoD6BtvO.dpbs)
