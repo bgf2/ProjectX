@@ -1,7 +1,9 @@
 ProjectX file original created under the MIT license 2015 by [CHEF-KOCH](https://github.com/CHEF-KOCH).
 
 
-DarkWeb pages overview (yet another one) is designed to show [Deep Web](https://en.wikipedia.org/wiki/Deep_Web) specific pages, software and other related things or info.
+DarkWeb pages overview (yet another one) is designed to show [Deep Web](https://en.wikipedia.org/wiki/Deep_Web) specific pages, software and other related information.
+
+The focus is based on GNUnet, Tor and I2P networks.
 
 
 **Software Projects**
@@ -18,13 +20,13 @@ DarkWeb pages overview (yet another one) is designed to show [Deep Web](https://
 
 **DarkWeb Gateways**
 
-These websites allow people to access DarkWeb sites without needing additional software. 
+These websites allow people to access DarkWeb sites without installing additional software. 
 
 * [Fproxy](http://www.fproxy.nl/) (access to free sites)
 * [Fproxy.net](https://fproxy.net/) (access to free sites)
-* [Onion City](http://onion.city/) (access to onion sites) 
-* [Onion Nu](http://onion.nu/) (access to onion and i2p sites)
-* [Tor2Web](https://www.tor2web.org/) (access to onion sites)
+* [Onion City](http://onion.city/) (access to .onion sites) 
+* [Onion Nu](http://onion.nu/) (access to .onion and .i2p sites)
+* [Tor2Web](https://www.tor2web.org/) (access to .onion sites)
 
 
 
@@ -112,7 +114,7 @@ To use I2P (https://geti2p.net/), obtain and install the I2P jar file (https://g
 * [Darknet Products](http://darknet-products.i2p)
 
 
-**Social Media**
+**Social Media and Chat**
 
 * [I2p Forum](http://forum.i2p)
 * [ID3nt](http://id3nt.i2p)
@@ -173,12 +175,12 @@ gnunet://ecrs/chk/9E4MDN4VULE8KJG6U1C8FKH5HA8C5CHSJTILRTTPGK8MJ6VHORERHE68JU8Q0F
 
 **Directory**
 
-* Hidden Wiki Mirror - http://xqz3u5drneuzhaeo.onion/users/hackbloc/index.php/Mirror/kpvz7ki2v5agwt35.onion/Main_Page
+* [Hidden Wiki Mirror](http://xqz3u5drneuzhaeo.onion/users/hackbloc/index.php/Mirror/kpvz7ki2v5agwt35.onion/Main_Page)
 * [OnionDir](http://dirnxxdraygbifgc.onion/)
 * [OnionList](http://jh32yv5zgayyyts3.onion/)
 * [Onion URL Repository]( http://32rfckwuorlf4dlv.onion/)
 * [Onion Wiki](http://wiki5kauuihowqi5.onion/)
-* paraZite - http://kpynyvym6xqi7wz2.onion/ & [mirror](http://qx7j2selmom4ioxf.onion/)
+* [paraZite](http://kpynyvym6xqi7wz2.onion/) & [mirror](http://qx7j2selmom4ioxf.onion/)
 * [Tor Links](http://torlinkbgs6aabns.onion/)
 * [Tor Wiki](http://torwikignoueupfm.onion/)
 
@@ -207,6 +209,7 @@ gnunet://ecrs/chk/9E4MDN4VULE8KJG6U1C8FKH5HA8C5CHSJTILRTTPGK8MJ6VHORERHE68JU8Q0F
 * [Tor Project](http://sv423uljolacrab5.onion/)
 * [Tor Web Developer](http://qizriixqwmeq4p5b.onion/)
 * [Tor Onion](http://eqt5g4fuenphqinx.onion/)
+* [Bot Revolt](http://www.botrevolt.com/) (replaces outdated PeerBlock)
 
 
 **Search Engines**
@@ -261,9 +264,10 @@ gnunet://ecrs/chk/9E4MDN4VULE8KJG6U1C8FKH5HA8C5CHSJTILRTTPGK8MJ6VHORERHE68JU8Q0F
 * [PPcoin](http://peercoin.net/)
 
 
-**Tips**
+**Additional Tips**
 
-* To disable the webcam on a Linux system, simply run <code>modprobe -r uvcvideo</code> with Root privileges.
+* To disable the webcam on a Linux system, simply run <code>modprobe -r uvcvideo</code> under Root privileges.
+* Ensure you're not suffering from any DNS leakage problem that possible could reveal your real IP to the world.
 
 
 **Helpful Links**
