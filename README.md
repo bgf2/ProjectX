@@ -1,7 +1,7 @@
 ProjectX file original created under the MIT license 2015 by [CHEF-KOCH](https://github.com/CHEF-KOCH).
 
 
-DarkWeb pages overview (yet another one) is designed to show [Deep Web](https://en.wikipedia.org/wiki/Deep_Web) specific pages, software and other things.
+DarkWeb pages overview (yet another one) is designed to show [Deep Web](https://en.wikipedia.org/wiki/Deep_Web) specific pages, software and other related things or info.
 
 
 **Software Projects**
@@ -76,7 +76,7 @@ To use I2P (https://geti2p.net/), obtain and install the I2P jar file (https://g
 
 **Miscellaneous I2P Sites**
 
-* [I2P](http://www.i2p2.i2p) (Official Site)
+* [I2P](http://www.i2p2.i2p) (Official I2P Site)
 * I2P [Plugins](zzz.i2p)
 * I2P [URL-Shortener](http://q.i2p)
 * [iMule](http://www.imule.i2p)
@@ -105,8 +105,6 @@ To use I2P (https://geti2p.net/), obtain and install the I2P jar file (https://g
 * [Eepsites](http://eepsites.i2p)
 * [Epsilon](http://epsilon.i2p)
 * [Eye](http://eye.i2p)
-* http://osearchkiq5mvet6.onion/
-* http://hss3uro2hsxfogfq.onion/
 
 
 **Shopping (I2P)**
@@ -169,9 +167,13 @@ gnunet://ecrs/chk/9E4MDN4VULE8KJG6U1C8FKH5HA8C5CHSJTILRTTPGK8MJ6VHORERHE68JU8Q0F
 * [WeBuyBitcoins](http://jzn5w5pac26sqef4.onion/)
 
 
+** Hardened Operating Systems**
+* [Tails](https://tails.boum.org/), [getting started article](https://tails.boum.org/getting_started/index.en.html)
+
+
 **Directory**
 
-* Hidden Wiki's - http://zqktlwi4fecvo6ri.onion/ || http://kpvz7kpmcmne52qf.onion/ || http://wikitjerrta4qgz4.onion/
+* Hidden Wiki Mirror - http://xqz3u5drneuzhaeo.onion/users/hackbloc/index.php/Mirror/kpvz7ki2v5agwt35.onion/Main_Page
 * [OnionDir](http://dirnxxdraygbifgc.onion/)
 * [OnionList](http://jh32yv5zgayyyts3.onion/)
 * [Onion URL Repository]( http://32rfckwuorlf4dlv.onion/)
@@ -230,7 +232,7 @@ gnunet://ecrs/chk/9E4MDN4VULE8KJG6U1C8FKH5HA8C5CHSJTILRTTPGK8MJ6VHORERHE68JU8Q0F
 * [The Majestic Garden](http://themgpeuawtfvbzi.onion/)
 
 
-**Social, Chans, and Forums**
+**Social, Chans and Forums**
 
 * [Facebook](http://facebookcorewwwi.onion/)
 * [Intel Exchange](http://rrcc5uuudhh4oz3c.onion/)
@@ -249,19 +251,19 @@ gnunet://ecrs/chk/9E4MDN4VULE8KJG6U1C8FKH5HA8C5CHSJTILRTTPGK8MJ6VHORERHE68JU8Q0F
 
 **Cryptocurrency**
 
-* [Bitcoin](https://bitcoin.org/)
+* [Bitcoin](https://bitcoin.org/) (Most known Bintcoin wallet)
 * [Blackcoin](http://www.blackcoin.co/) (BLKCoin)
-* [Dash](https://www.dashpay.io/) (formerly "Darkcoin")
+* [Dash](https://www.dashpay.io/) (formerly known as "Darkcoin")
 * [Litecoin](https://litecoin.info/index.php)
 * [Mastercoin](http://www.omnilayer.org/)
 * [Namecoin](http://namecoin.info/)
 * [Potcoin](http://www.potfunder.com/)
-* [PPcoin](http://peercoin.net/) (PeerCoin)
+* [PPcoin](http://peercoin.net/)
 
 
 **Tips**
 
-* To disable the webcam on a Linux system, just run <code>modprobe -r uvcvideo</code> with Root privileges.
+* To disable the webcam on a Linux system, simply run <code>modprobe -r uvcvideo</code> with Root privileges.
 
 
 **Helpful Links**
