@@ -171,6 +171,7 @@ gnunet://ecrs/chk/9E4MDN4VULE8KJG6U1C8FKH5HA8C5CHSJTILRTTPGK8MJ6VHORERHE68JU8Q0F
 
 ** Hardened Operating Systems**
 * [Tails](https://tails.boum.org/), [getting started article](https://tails.boum.org/getting_started/index.en.html)
+* [Kali](https://www.kali.org/)
 
 
 **Directory**
