@@ -46,6 +46,12 @@ To use I2P (https://geti2p.net/), obtain and install the I2P jar file (https://g
 * [Who is Up](http://who.i2p)
 
 
+**I2P Blocklists**
+* http://www.bluetack.co.uk/forums/index.php?autocom=faq&CODE=02&qid=17
+* http://blocklist.googlepages.com/
+* http://www.team-cymru.org/Services/Bogons/http.html
+
+
 **File-Sharing and Torrents**
 
 * [Amidoinitrite](http://amidoinitrite.i2p)
