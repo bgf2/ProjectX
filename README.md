@@ -47,6 +47,7 @@ To use I2P (https://geti2p.net/), obtain and install the I2P jar file (https://g
 
 
 **I2P Blocklists**
+
 * http://www.bluetack.co.uk/forums/index.php?autocom=faq&CODE=02&qid=17
 * http://blocklist.googlepages.com/
 * http://www.team-cymru.org/Services/Bogons/http.html
@@ -269,6 +270,12 @@ gnunet://ecrs/chk/9E4MDN4VULE8KJG6U1C8FKH5HA8C5CHSJTILRTTPGK8MJ6VHORERHE68JU8Q0F
 * [Namecoin](http://namecoin.info/)
 * [Potcoin](http://www.potfunder.com/)
 * [PPcoin](http://peercoin.net/)
+
+
+**Tor Proxy**
+
+* [txtorhttpproxy](https://github.com/david415/txtorhttpproxy)
+
 
 
 **Additional Tips**
