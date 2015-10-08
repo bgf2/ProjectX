@@ -179,6 +179,7 @@ gnunet://ecrs/chk/9E4MDN4VULE8KJG6U1C8FKH5HA8C5CHSJTILRTTPGK8MJ6VHORERHE68JU8Q0F
 ** Hardened Operating Systems**
 * [Tails](https://tails.boum.org/), [getting started article](https://tails.boum.org/getting_started/index.en.html)
 * [Kali](https://www.kali.org/)
+* [Qubes](https://www.qubes-os.org/)
 
 
 **Directory**
@@ -198,6 +199,13 @@ gnunet://ecrs/chk/9E4MDN4VULE8KJG6U1C8FKH5HA8C5CHSJTILRTTPGK8MJ6VHORERHE68JU8Q0F
 * [BitMessage](http://bitmailendavkbec.onion/)
 * [SIGAINT](http://sigaintevyh2rzvw.onion/)
 * [Tor Mail](http://jhiwjjlqpyawmpjx.onion/)
+* [Scramble](https://scramble.io/)
+* [Sigma](https://sigma.email/)
+* [ProtonMail](https://protonmail.ch/)
+* [DarkMail](https://darkmail.info/)
+* [Sigaint](https://www.sigaint.org/) (Has onion address)
+* [Mail2Tor](http://mail2tor.com/)
+* [RuggedInbox](http://s4bysmmsnraf7eut.onion/)
 
 
 **Ebooks**
@@ -256,7 +264,7 @@ gnunet://ecrs/chk/9E4MDN4VULE8KJG6U1C8FKH5HA8C5CHSJTILRTTPGK8MJ6VHORERHE68JU8Q0F
 * [img.bi](http://imgbifwwqoixh7te.onion/)
 * [Lolicore](http://lolicore75rq3tm5.onion/)
 * [Matrix Trilogy](http://matrixtxri745dfw.onion/)
-* [Pirate Bay](http://uj3wazyk5u4hnvtk.onion/)
+* [The Pirate Bay](http://uj3wazyk5u4hnvtk.onion/)
 * [Sea Kitten Palace](http://wtwfzc6ty2s6x4po.onion/)
 
 
