@@ -14,8 +14,12 @@ The focus is based on GNUnet, Tor and I2P networks.
 * [Tor Project](https://www.torproject.org/) & [Source](https://gitweb.torproject.org/)
 * JAP (Jondonym-Anonymous-Proxy-Server)
 * Retroshare
-* Shadowsocks (bypass e.g. chinese firewalls)
+* [Shadowsocks](https://github.com/shadowsocks/) (bypass e.g. chinese firewalls)
+* [Alkasir](https://alkasir.com/)
 * Drony / Orxify / Orbot / Orky
+* [Lantern](https://github.com/getlantern/lantern)
+* [Psiphon](https://s3.amazonaws.com/irw7-3wt4-sic4/en/download.html)
+* [GranGorz](https://grangorz.org/download)
 
 
 **DarkWeb Gateways**
