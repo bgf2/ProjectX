@@ -13,7 +13,7 @@ The focus is based on GNUnet, Tor and I2P networks.
 * [I2P Project](https://geti2p.net/)
 * [Tor Project](https://www.torproject.org/) & [Source](https://gitweb.torproject.org/)
 * JAP (Jondonym-Anonymous-Proxy-Server)
-* Retroshare
+* [Retroshare](https://github.com/RetroShare/RetroShare)
 * [Shadowsocks](https://github.com/shadowsocks/) (bypass e.g. chinese firewalls)
 * [Alkasir](https://alkasir.com/)
 * Drony / Orxify / Orbot / Orky
@@ -74,6 +74,7 @@ To use I2P (https://geti2p.net/), obtain and install the I2P jar file (https://g
 * [TailsOS](https://tails.boum.org/)
 * [Whonix](https://www.whonix.org)
 * [Qubes OS](https://www.qubes-os.org/)
+* [Copperhead](https://copperhead.co/android/)
 
 
 
@@ -83,7 +84,7 @@ To use I2P (https://geti2p.net/), obtain and install the I2P jar file (https://g
 * [I2Play](http://i2play.i2p)
 
 
-**Messaging I2P or Tor**
+**Messaging over I2P/Tor**
 
 * [Haste XMPP](http://haste.i2p)
 * [I2P-Bote](http://i2pbote.i2p)
@@ -102,6 +103,7 @@ To use I2P (https://geti2p.net/), obtain and install the I2P jar file (https://g
 * [Discord](https://discordapp.com/)
 * [Ring](https://ring.cx/)
 * [Tox](https://tox.chat/)
+* [Riot](https://about.riot.im/)
 
 
 **FDE**
@@ -224,9 +226,10 @@ gnunet://ecrs/chk/9E4MDN4VULE8KJG6U1C8FKH5HA8C5CHSJTILRTTPGK8MJ6VHORERHE68JU8Q0F
 * [Tor Wiki](http://torwikignoueupfm.onion/)
 
 
-**Email**
+**eMail**
 
 * [Protonmail](https://protonmail.com/)
+* [LavaBit](https://lavabit.com/?reloaded)
 * [BitMessage](http://bitmailendavkbec.onion/)
 * [SIGAINT](http://sigaintevyh2rzvw.onion/)
 * [Tor Mail](http://jhiwjjlqpyawmpjx.onion/)
@@ -237,6 +240,13 @@ gnunet://ecrs/chk/9E4MDN4VULE8KJG6U1C8FKH5HA8C5CHSJTILRTTPGK8MJ6VHORERHE68JU8Q0F
 * [Sigaint](https://www.sigaint.org/) (Has onion address)
 * [Mail2Tor](http://mail2tor.com/)
 * [RuggedInbox](http://s4bysmmsnraf7eut.onion/)
+
+
+**eMail encryption extensions**
+
+* [E2EMail](https://github.com/e2email-org/e2email)
+* [Mailvelope](https://www.mailvelope.com/en)
+* [CryptUp](https://cryptup.org/)
 
 
 **VPN**
