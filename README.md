@@ -69,6 +69,14 @@ To use I2P (https://geti2p.net/), obtain and install the I2P jar file (https://g
 * [ZeroFiles](http://zerofiles.i2p)
 
 
+**OS**
+
+* [TailsOS](https://tails.boum.org/)
+* [Whonix](https://www.whonix.org)
+* [Qubes OS](https://www.qubes-os.org/)
+
+
+
 **Gaming**
 
 * [I2P Chess Client](http://chess.i2p)
@@ -85,6 +93,23 @@ To use I2P (https://geti2p.net/), obtain and install the I2P jar file (https://g
 * [Xabber](http://www.xabber.com/)
 * [OnionChat](http://chatrapi7fkbzczr.onion/)
 * [SMS4TOR](http://sms4tor3vcr2geip.onion/)
+
+
+**Messaging**
+
+* [Briar](https://briarproject.org/news/2017-beta-released-security-audit.html)
+* [Threema](https://threema.ch/en/)
+* [Discord](https://discordapp.com/)
+* [Ring](https://ring.cx/)
+* [Tox](https://tox.chat/)
+
+
+**FDE**
+
+* [VeraCrypt](https://www.veracrypt.fr)
+* [DiskCryptor](https://diskcryptor.net/wiki/Main_Page)
+* [LibreCrypt](https://github.com/t-d-k/LibreCrypt)
+* [EncFS](http://www.arg0.net/encfs)
 
 
 **Miscellaneous I2P Sites**
@@ -178,6 +203,7 @@ gnunet://ecrs/chk/9E4MDN4VULE8KJG6U1C8FKH5HA8C5CHSJTILRTTPGK8MJ6VHORERHE68JU8Q0F
 * [HQER](http://y3fpieiezy2sin4a.onion/)
 * [OnionWallet](http://ow24et3tetp6tvmk.onion/)
 * [WeBuyBitcoins](http://jzn5w5pac26sqef4.onion/)
+* [Monero](https://getmonero.org/)
 
 
 ** Hardened Operating Systems**
@@ -200,6 +226,7 @@ gnunet://ecrs/chk/9E4MDN4VULE8KJG6U1C8FKH5HA8C5CHSJTILRTTPGK8MJ6VHORERHE68JU8Q0F
 
 **Email**
 
+* [Protonmail](https://protonmail.com/)
 * [BitMessage](http://bitmailendavkbec.onion/)
 * [SIGAINT](http://sigaintevyh2rzvw.onion/)
 * [Tor Mail](http://jhiwjjlqpyawmpjx.onion/)
@@ -210,6 +237,12 @@ gnunet://ecrs/chk/9E4MDN4VULE8KJG6U1C8FKH5HA8C5CHSJTILRTTPGK8MJ6VHORERHE68JU8Q0F
 * [Sigaint](https://www.sigaint.org/) (Has onion address)
 * [Mail2Tor](http://mail2tor.com/)
 * [RuggedInbox](http://s4bysmmsnraf7eut.onion/)
+
+
+**VPN**
+
+* [Private Internet Access](https://www.privateinternetaccess.com)
+* [ProtonVPN](https://www.protonvpn.com/)
 
 
 **Ebooks**
@@ -234,6 +267,7 @@ gnunet://ecrs/chk/9E4MDN4VULE8KJG6U1C8FKH5HA8C5CHSJTILRTTPGK8MJ6VHORERHE68JU8Q0F
 
 **Search Engines**
 
+* [MetaGer](http://b7cxf4dkdsko6ah2.onion/tor/)
 * [DuckDuckGo](http://3g2upl4pq6kufc4m.onion/)
 * [Grams](http://grams7enufi7jmdl.onion/)
 * [Torch](http://xmh57jrzrnw6insl.onion/)
@@ -306,6 +340,8 @@ gnunet://ecrs/chk/9E4MDN4VULE8KJG6U1C8FKH5HA8C5CHSJTILRTTPGK8MJ6VHORERHE68JU8Q0F
 * [I2hostetag](http://i2host.i2p.xyz/cgi-bin/i2hostetag)
 * [Use I2P in Web-browsers](https://geti2p.net/en/about/browser-config)
 * [Using Freenet](https://wiki.freenetproject.org/Using_Freenet)
+* [Tor: Design Requirements and Philosophy](https://www.torproject.org/projects/torbrowser/design/#philosophy)
+* [Schneier on Security](https://www.schneier.com/)
 
 
 **Further Reading**
