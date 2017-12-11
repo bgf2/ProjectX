@@ -281,11 +281,11 @@ gnunet://ecrs/chk/9E4MDN4VULE8KJG6U1C8FKH5HA8C5CHSJTILRTTPGK8MJ6VHORERHE68JU8Q0F
 **Search Engines**
 
 * [MetaGer](http://b7cxf4dkdsko6ah2.onion/tor/)
-* [DuckDuckGo](http://3g2upl4pq6kufc4m.onion/)
 * [Grams](http://grams7enufi7jmdl.onion/)
 * [Torch](http://xmh57jrzrnw6insl.onion/)
 * [Tor Hidden Service](http://msydqstlz2kzerdg.onion/)
 * [Tor Search](http://hss3uro2hsxfogfq.onion/)
+* [Searx](https://github.com/asciimoo/searx)
 
 
 **Shopping**
