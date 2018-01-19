@@ -1,4 +1,4 @@
-ProjectX file original created under the MIT license 2015 - 2016 by [CHEF-KOCH](https://github.com/CHEF-KOCH).
+ProjectX file original created under the MIT license 2015 - 2018 by [CHEF-KOCH](https://github.com/CHEF-KOCH).
 
 [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/fold_left.svg?style=social&label=Follow%20%40CHEF-KOCH)](https://twitter.com/FZeven)
 [![Say Thanks!](https://img.shields.io/badge/Say%20Thanks-!-1EAEDB.svg)](https://saythanks.io/to/CHEF-KOCH)
@@ -334,6 +334,15 @@ gnunet://ecrs/chk/9E4MDN4VULE8KJG6U1C8FKH5HA8C5CHSJTILRTTPGK8MJ6VHORERHE68JU8Q0F
 **Tor Proxy**
 
 * [txtorhttpproxy](https://github.com/david415/txtorhttpproxy)
+
+
+**Discontinued**
+
+* [RShare](https://en.wikipedia.org/wiki/RShare)
+* [StealthNet](https://en.wikipedia.org/wiki/StealthNet)
+* [anoNET](https://en.wikipedia.org/wiki/AnoNet)
+* [AllPeers](https://en.wikipedia.org/wiki/AllPeers)
+* [Turtle F2F](https://en.wikipedia.org/wiki/Turtle_F2F)
 
 
 
