@@ -12,10 +12,11 @@ The focus is based on GNUnet, Tor and I2P networks.
 **Software Projects**
 
 * [Freenet](https://freenetproject.org/) & [Wiki](https://wiki.freenetproject.org/)
+* [Decentralized network 42 (dn42)](https://dn42.eu/Home) & [FAQ](https://dn42.eu/FAQ)
 * [GNUnet](https://gnunet.org/) & [Source](https://github.com/GNUnet/gnunet)
 * [I2P Project](https://geti2p.net/)
 * [Tor Project](https://www.torproject.org/) & [Source](https://gitweb.torproject.org/)
-* JAP (Jondonym-Anonymous-Proxy-Server)
+* [JAP (Jondonym-Anonymous-Proxy-Server)](https://anonymous-proxy-servers.net) 
 * [Retroshare](https://github.com/RetroShare/RetroShare)
 * [Shadowsocks](https://github.com/shadowsocks/) (bypass e.g. chinese firewalls)
 * [Alkasir](https://alkasir.com/)
@@ -23,6 +24,10 @@ The focus is based on GNUnet, Tor and I2P networks.
 * [Lantern](https://github.com/getlantern/lantern)
 * [Psiphon](https://s3.amazonaws.com/irw7-3wt4-sic4/en/download.html)
 * [GranGorz](https://grangorz.org/download)
+* [Riffle](http://news.mit.edu/2016/stay-anonymous-online-0711)
+* [Syndie](https://github.com/i2p/i2p.syndie)
+* [Tribler](https://www.tribler.org)
+* [ZeroNet](https://zeronet.io/)
 
 
 **DarkWeb Gateways**
@@ -70,6 +75,8 @@ To use I2P (https://geti2p.net/), obtain and install the I2P jar file (https://g
 * [OpenMusic](http://openmusic.i2p)
 * [Postman's I2P tracker](http://tracker2.postman.i2p)
 * [ZeroFiles](http://zerofiles.i2p)
+* [OneSwarm](http://www.oneswarm.org)
+* [OnionShare](https://onionshare.org/)
 
 
 **OS**
