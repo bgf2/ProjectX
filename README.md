@@ -6,7 +6,19 @@ ProjectX file original created under the MIT license 2015 - 2018 by [CHEF-KOCH](
 
 DarkWeb pages overview (yet another one) is designed to show [Deep Web](https://en.wikipedia.org/wiki/Deep_Web) specific pages, software and other related information.
 
-The focus is based on GNUnet, Tor and I2P networks.
+Darknets in general may be used for various reasons, such as:
+
+* Computer crime (cracking, file corruption etc.)
+* Protecting dissidents from political reprisal
+* File sharing (warez, personal files, pornography, confidential files, illegal or counterfeit software etc.)
+* To better protect the privacy rights of citizens from targeted and mass surveillance
+* Sale of restricted goods on darknet markets
+* Whistleblowing and news leaks
+* Purchase or sale of illicit or illegal goods or services[14]
+* Circumvent network censorship and content-filtering systems, or to bypass restrictive firewall-policies.[15]
+* Exercising human rights such as the right to speak or contract free from commercial or state interference.
+* Avoiding emotional battery (crime) such as that may be inflicted as a result of neuromarketing.
+* Refusing to consent to surveillance on communications networks where no right to consent is formally recognized or honored between the * Internet Service Provider and the end user.
 
 
 **Software Projects**
