@@ -24,6 +24,7 @@ Darknets in general may be used for various reasons, such as:
 **Software Projects**
 
 * [Freenet](https://freenetproject.org/) & [Wiki](https://wiki.freenetproject.org/)
+* [Dat Project](https://datproject.org/) & [Source](https://github.com/datproject) (Browsable with the [Beaker Browser](https://beakerbrowser.com/))
 * [Decentralized network 42 (dn42)](https://dn42.eu/Home) & [FAQ](https://dn42.eu/FAQ)
 * [GNUnet](https://gnunet.org/) & [Source](https://github.com/GNUnet/gnunet)
 * [I2P Project](https://geti2p.net/)
@@ -112,6 +113,7 @@ To use I2P (https://geti2p.net/), obtain and install the I2P jar file (https://g
 * [I2P-Bote](http://i2pbote.i2p)
 * [I2P Chat](http://who.i2p/chat/)
 * [Postman's Mail](http://hq.postman.i2p)
+* [Ricochet](https://ricochet.im/)
 * [Salt NNTP](http://salt.i2p/nntp.html)
 * [Xabber](http://www.xabber.com/)
 * [OnionChat](http://chatrapi7fkbzczr.onion/)
@@ -221,6 +223,14 @@ gnunet://ecrs/chk/9E4MDN4VULE8KJG6U1C8FKH5HA8C5CHSJTILRTTPGK8MJ6VHORERHE68JU8Q0F
 
 **Cryptocurrency**
 
+* [Bitcoin](https://bitcoin.org/) (Most known Bintcoin wallet)
+* [Blackcoin](http://www.blackcoin.co/) (BLKCoin)
+* [Dash](https://www.dashpay.io/) (formerly known as "Darkcoin")
+* [Litecoin](https://litecoin.info/index.php)
+* [Mastercoin](http://www.omnilayer.org/)
+* [Namecoin](http://namecoin.info/)
+* [Potcoin](http://www.potfunder.com/)
+* [PPcoin](http://peercoin.net/)
 * [ccPal Store](http://3dbr5t4pygahedms.onion/)
 * [EasyCoin](http://easycoinsayj7p5l.onion/)
 * [Helix](http://grams7enufi7jmdl.onion/helix)
@@ -230,7 +240,7 @@ gnunet://ecrs/chk/9E4MDN4VULE8KJG6U1C8FKH5HA8C5CHSJTILRTTPGK8MJ6VHORERHE68JU8Q0F
 * [Monero](https://getmonero.org/)
 
 
-** Hardened Operating Systems**
+**Hardened Operating Systems**
 * [Tails](https://tails.boum.org/), [getting started article](https://tails.boum.org/getting_started/index.en.html)
 * [Kali](https://www.kali.org/)
 * [Qubes](https://www.qubes-os.org/)
@@ -275,6 +285,7 @@ gnunet://ecrs/chk/9E4MDN4VULE8KJG6U1C8FKH5HA8C5CHSJTILRTTPGK8MJ6VHORERHE68JU8Q0F
 
 * [Private Internet Access](https://www.privateinternetaccess.com)
 * [ProtonVPN](https://www.protonvpn.com/)
+* [SoftEther VPN Project](https://www.softether.org/)
 
 
 **Ebooks**
@@ -336,18 +347,6 @@ gnunet://ecrs/chk/9E4MDN4VULE8KJG6U1C8FKH5HA8C5CHSJTILRTTPGK8MJ6VHORERHE68JU8Q0F
 * [Matrix Trilogy](http://matrixtxri745dfw.onion/)
 * [The Pirate Bay](http://uj3wazyk5u4hnvtk.onion/)
 * [Sea Kitten Palace](http://wtwfzc6ty2s6x4po.onion/)
-
-
-**Cryptocurrency**
-
-* [Bitcoin](https://bitcoin.org/) (Most known Bintcoin wallet)
-* [Blackcoin](http://www.blackcoin.co/) (BLKCoin)
-* [Dash](https://www.dashpay.io/) (formerly known as "Darkcoin")
-* [Litecoin](https://litecoin.info/index.php)
-* [Mastercoin](http://www.omnilayer.org/)
-* [Namecoin](http://namecoin.info/)
-* [Potcoin](http://www.potfunder.com/)
-* [PPcoin](http://peercoin.net/)
 
 
 **Tor Proxy**
