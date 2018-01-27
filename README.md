@@ -28,6 +28,7 @@ Darknets in general may be used for various reasons, such as:
 * [Decentralized network 42 (dn42)](https://dn42.eu/Home) & [FAQ](https://dn42.eu/FAQ)
 * [GNUnet](https://gnunet.org/) & [Source](https://github.com/GNUnet/gnunet)
 * [I2P Project](https://geti2p.net/)
+* [IPFS](https://ipfs.io/) & [Source](https://github.com/ipfs)
 * [Tor Project](https://www.torproject.org/) & [Source](https://gitweb.torproject.org/)
 * [JAP (Jondonym-Anonymous-Proxy-Server)](https://anonymous-proxy-servers.net) 
 * [Retroshare](https://github.com/RetroShare/RetroShare)
