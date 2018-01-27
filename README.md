@@ -55,14 +55,12 @@ These websites allow people to access DarkWeb sites without installing additiona
 * [Tor2Web](https://www.tor2web.org/) (access to .onion sites)
 
 
-
-
 **I2P Index (Eepsites)**
 
 To use I2P (https://geti2p.net/), obtain and install the I2P jar file (https://geti2p.net/download). To access I2P in Firefox, install the "FoxyProxy" extension (see link below). Then, configure FoxyProxy to use the 127.0.0.1 IP Address and port 4444. Furthermore, use port 4445 for SSL, HTTPS, and SOCKS; set the URL pattern to *.i2p*. If using Tor, use the same instructions as Firefox, but use the "Torbutton Preferences" instead of FoxyProxy.
 
 
-** Directory (I2P)**
+**Directory (I2P)**
 
 * [I2Host](http://i2host.i2p) 
 * [paraZites](loinen.i2p)
@@ -79,7 +77,24 @@ To use I2P (https://geti2p.net/), obtain and install the I2P jar file (https://g
 * http://www.team-cymru.org/Services/Bogons/http.html
 
 
-**File-Sharing and Torrents**
+**General Torrents and File-Sharing**
+
+* [OneSwarm](http://www.oneswarm.org)
+* [OnionShare](https://onionshare.org/)
+* [The Pirate Bay](https://thepiratebay.org)
+
+
+**Tor Torrents and File-Sharing**
+
+* [FireBit](http://wecttp234pgkcxoh.onion/)
+* [img.bi](http://imgbifwwqoixh7te.onion/)
+* [Lolicore](http://lolicore75rq3tm5.onion/)
+* [Matrix Trilogy](http://matrixtxri745dfw.onion/)
+* [The Pirate Bay](http://uj3wazyk5u4hnvtk.onion/)
+* [Sea Kitten Palace](http://wtwfzc6ty2s6x4po.onion/)
+
+
+**I2P Torrents and File-Sharing**
 
 * [Amidoinitrite](http://amidoinitrite.i2p)
 * [Document Heaven](http://documentheaven.i2p)
@@ -89,17 +104,6 @@ To use I2P (https://geti2p.net/), obtain and install the I2P jar file (https://g
 * [OpenMusic](http://openmusic.i2p)
 * [Postman's I2P tracker](http://tracker2.postman.i2p)
 * [ZeroFiles](http://zerofiles.i2p)
-* [OneSwarm](http://www.oneswarm.org)
-* [OnionShare](https://onionshare.org/)
-
-
-**OS**
-
-* [TailsOS](https://tails.boum.org/)
-* [Whonix](https://www.whonix.org)
-* [Qubes OS](https://www.qubes-os.org/)
-* [Copperhead](https://copperhead.co/android/)
-
 
 
 **Gaming**
@@ -108,27 +112,40 @@ To use I2P (https://geti2p.net/), obtain and install the I2P jar file (https://g
 * [I2Play](http://i2play.i2p)
 
 
-**Messaging over I2P/Tor**
-
-* [Haste XMPP](http://haste.i2p)
-* [I2P-Bote](http://i2pbote.i2p)
-* [I2P Chat](http://who.i2p/chat/)
-* [Postman's Mail](http://hq.postman.i2p)
-* [Ricochet](https://ricochet.im/)
-* [Salt NNTP](http://salt.i2p/nntp.html)
-* [Xabber](http://www.xabber.com/)
-* [OnionChat](http://chatrapi7fkbzczr.onion/)
-* [SMS4TOR](http://sms4tor3vcr2geip.onion/)
-
-
-**Messaging**
+**General Social Media and Chat**
 
 * [Briar](https://briarproject.org/news/2017-beta-released-security-audit.html)
 * [Threema](https://threema.ch/en/)
 * [Discord](https://discordapp.com/)
 * [Ring](https://ring.cx/)
 * [Tox](https://tox.chat/)
+* [Ricochet](https://ricochet.im/)
 * [Riot](https://about.riot.im/)
+* [Xabber](http://www.xabber.com/)
+
+
+**I2P Social Media and Chat**
+
+* [Haste XMPP](http://haste.i2p)
+* [I2P-Bote](http://i2pbote.i2p)
+* [I2P Chat](http://who.i2p/chat/)
+* [Postman's Mail](http://hq.postman.i2p)
+* [Salt NNTP](http://salt.i2p/nntp.html)
+* [I2p Forum](http://forum.i2p)
+* [ID3nt](http://id3nt.i2p)
+* IRC - <code>irc.stream.i2p</code> or <code>irc.puredev.i2p</code> or <code>irc.philabs.i2p</code> or <code>irc.dlms.i2p</code>
+* [Jisko](http://jisko.i2p)
+* [Salt Forum](http://forum.salt.i2p)
+* [Visibility](http://visibility.i2p)
+
+
+**Tor Social Media and Chat**
+
+* [Facebook](http://facebookcorewwwi.onion/)
+* [Intel Exchange](http://rrcc5uuudhh4oz3c.onion/)
+* [overchan.oniichan](http://oniichanylo2tsi4.onion/)
+* [OnionChat](http://chatrapi7fkbzczr.onion/)
+* [SMS4TOR](http://sms4tor3vcr2geip.onion/)
 
 
 **FDE**
@@ -175,16 +192,6 @@ To use I2P (https://geti2p.net/), obtain and install the I2P jar file (https://g
 **Shopping (I2P)**
 
 * [Darknet Products](http://darknet-products.i2p)
-
-
-**Social Media and Chat**
-
-* [I2p Forum](http://forum.i2p)
-* [ID3nt](http://id3nt.i2p)
-* IRC - <code>irc.stream.i2p</code> or <code>irc.puredev.i2p</code> or <code>irc.philabs.i2p</code> or <code>irc.dlms.i2p</code>
-* [Jisko](http://jisko.i2p)
-* [Salt Forum](http://forum.salt.i2p)
-* [Visibility](http://visibility.i2p)
 
 
 **RSS Aggregator**
@@ -242,9 +249,11 @@ gnunet://ecrs/chk/9E4MDN4VULE8KJG6U1C8FKH5HA8C5CHSJTILRTTPGK8MJ6VHORERHE68JU8Q0F
 
 
 **Hardened Operating Systems**
+* [Copperhead](https://copperhead.co/android/)
 * [Tails](https://tails.boum.org/), [getting started article](https://tails.boum.org/getting_started/index.en.html)
 * [Kali](https://www.kali.org/)
 * [Qubes](https://www.qubes-os.org/)
+* [Whonix](https://www.whonix.org)
 
 
 **Directory**
@@ -331,23 +340,6 @@ gnunet://ecrs/chk/9E4MDN4VULE8KJG6U1C8FKH5HA8C5CHSJTILRTTPGK8MJ6VHORERHE68JU8Q0F
 * [Only Cigs](http://cigs7cviqbi4bvuy.onion/)
 * [Silk Road 3.0](http://reloadedudjtjvxr.onion/)
 * [The Majestic Garden](http://themgpeuawtfvbzi.onion/)
-
-
-**Social, Chans and Forums**
-
-* [Facebook](http://facebookcorewwwi.onion/)
-* [Intel Exchange](http://rrcc5uuudhh4oz3c.onion/)
-* [overchan.oniichan](http://oniichanylo2tsi4.onion/)
-
-
-**Torrents and File-Sharing**
-
-* [FireBit](http://wecttp234pgkcxoh.onion/)
-* [img.bi](http://imgbifwwqoixh7te.onion/)
-* [Lolicore](http://lolicore75rq3tm5.onion/)
-* [Matrix Trilogy](http://matrixtxri745dfw.onion/)
-* [The Pirate Bay](http://uj3wazyk5u4hnvtk.onion/)
-* [Sea Kitten Palace](http://wtwfzc6ty2s6x4po.onion/)
 
 
 **Tor Proxy**
