@@ -44,6 +44,13 @@ Darknets in general may be used for various reasons, such as:
 * [ZeroNet](https://zeronet.io/)
 
 
+**Network Projects**
+
+* [chisel](https://github.com/jpillora/chisel)
+* [IPsec VPN Server Auto Setup Scripts](https://github.com/hwdsl2/setup-ipsec-vpn)
+* [Algo VPN](https://github.com/trailofbits/algo)
+
+
 **DarkWeb Gateways**
 
 These websites allow people to access DarkWeb sites without installing additional software. 
