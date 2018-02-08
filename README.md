@@ -42,6 +42,7 @@ Darknets in general may be used for various reasons, such as:
 * [Syndie](https://github.com/i2p/i2p.syndie)
 * [Tribler](https://www.tribler.org)
 * [ZeroNet](https://zeronet.io/)
+* [Torwall](https://github.com/basil00/TorWall)
 
 
 **Network Projects**
