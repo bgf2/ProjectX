@@ -2,11 +2,13 @@ ProjectX file original created under the MIT license 2015 - 2018 by [CHEF-KOCH](
 
 [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/fold_left.svg?style=social&label=Follow%20%40CHEF-KOCH)](https://twitter.com/FZeven)
 [![Say Thanks!](https://img.shields.io/badge/Say%20Thanks-!-1EAEDB.svg)](https://saythanks.io/to/CHEF-KOCH)
-[![Discord](https://discordapp.com/api/guilds/204394292519632897/widget.png)](https://discord.me/NVinside)
+[![Discord](https://img.shields.io/discord/418256415874875402.svg?colorA=7289da&colorB=99aab5&label=Discord&logo=discord&maxAge=60)](https://discord.me/CHEF-KOCH)
+[![Tip Me via PayPal](https://img.shields.io/badge/PayPal-tip%20me-green.svg?logo=paypal)](https://www.paypal.me/nvinside)
+
 
 DarkWeb pages overview (yet another one) is designed to show [Deep Web](https://en.wikipedia.org/wiki/Deep_Web) specific pages, software and other related information.
 
-Darknets in general may be used for various reasons, such as:
+Darknet in general may be used for various reasons, such as:
 
 * Computer crime (cracking, file corruption etc.)
 * Protecting dissidents from political reprisal
@@ -19,6 +21,17 @@ Darknets in general may be used for various reasons, such as:
 * Exercising human rights such as the right to speak or contract free from commercial or state interference.
 * Avoiding emotional battery (crime) such as that may be inflicted as a result of neuromarketing.
 * Refusing to consent to surveillance on communications networks where no right to consent is formally recognized or honored between the * Internet Service Provider and the end user.
+
+
+**Censorship Circumvention Tools**
+
+* [GoAgent](https://trac.torproject.org/projects/tor/wiki/doc/GoAgent)
+* [scotty transporter](http://www.scotty-transporter.org/)
+* [IP over mail tunnel](https://github.com/altoor/IPoEM)
+* [Psiphon](https://psiphon.ca/)
+* [Lahana](http://lahana.dreamcats.org/node-howto/)
+* [Telex](https://telex.cc/)
+* [your freedom](https://www.your-freedom.net/)
 
 
 **Software Projects**
@@ -50,6 +63,9 @@ Darknets in general may be used for various reasons, such as:
 * [chisel](https://github.com/jpillora/chisel)
 * [IPsec VPN Server Auto Setup Scripts](https://github.com/hwdsl2/setup-ipsec-vpn)
 * [Algo VPN](https://github.com/trailofbits/algo)
+* [VPN Gate](http://www.vpngate.net/en/)
+* [iodine DNS](https://code.kryo.se/iodine/)
+* freegate (Officially only available for China & Iran, questionable trustworthiness)
 
 
 **DarkWeb Gateways**
@@ -90,6 +106,7 @@ To use I2P (https://geti2p.net/), obtain and install the I2P jar file (https://g
 * [OneSwarm](http://www.oneswarm.org)
 * [OnionShare](https://onionshare.org/)
 * [The Pirate Bay](https://thepiratebay.org)
+* [magic-wormhole](https://packages.debian.org/stretch/magic-wormhole)
 
 
 **Tor Torrents and File-Sharing**
@@ -262,6 +279,8 @@ gnunet://ecrs/chk/9E4MDN4VULE8KJG6U1C8FKH5HA8C5CHSJTILRTTPGK8MJ6VHORERHE68JU8Q0F
 * [Kali](https://www.kali.org/)
 * [Qubes](https://www.qubes-os.org/)
 * [Whonix](https://www.whonix.org)
+* [Subgraph OS](https://subgraph.com/sgos/)
+* [Parrot Security OS](https://www.parrotsec.org/)
 
 
 **Directory**
@@ -305,6 +324,7 @@ gnunet://ecrs/chk/9E4MDN4VULE8KJG6U1C8FKH5HA8C5CHSJTILRTTPGK8MJ6VHORERHE68JU8Q0F
 * [ProtonVPN](https://www.protonvpn.com/)
 * [SoftEther VPN Project](https://www.softether.org/)
 * [VPN Beginner’s Guide - All You Need To Know About VPNs](https://thebestvpn.com/what-is-vpn-beginners-guide/)
+
 
 
 **Ebooks**
@@ -400,3 +420,4 @@ gnunet://ecrs/chk/9E4MDN4VULE8KJG6U1C8FKH5HA8C5CHSJTILRTTPGK8MJ6VHORERHE68JU8Q0F
 * [Deep Web - Reddit](https://www.reddit.com/r/deepweb)
 * [Massive Deep Web Links 2015](http://securityzap.com/massive-deep-web-links-2015-updated-june-2015/#sthash.SoD6BtvO.dpbs)
 * [(.pdf) Tor Security overview at BlackHat (for experts)](https://www.blackhat.com/presentations/bh-usa-07/Perry/Whitepaper/bh-usa-07-perry-WP.pdf)
+* [Online Privacy Tes Resource List](https://github.com/CHEF-KOCH/Online-Privacy-Test-Resource-List)
