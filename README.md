@@ -323,6 +323,8 @@ gnunet://ecrs/chk/9E4MDN4VULE8KJG6U1C8FKH5HA8C5CHSJTILRTTPGK8MJ6VHORERHE68JU8Q0F
 * [Private Internet Access](https://www.privateinternetaccess.com)
 * [ProtonVPN](https://www.protonvpn.com/)
 * [SoftEther VPN Project](https://www.softether.org/)
+* [VPN Beginner’s Guide - All You Need To Know About VPNs](https://thebestvpn.com/what-is-vpn-beginners-guide/)
+
 
 
 **Ebooks**
