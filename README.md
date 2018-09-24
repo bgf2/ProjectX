@@ -16,7 +16,7 @@ Darknet in general may be used for various reasons, such as:
 * To better protect the privacy rights of citizens from targeted and mass surveillance
 * Sale of restricted goods on darknet markets
 * Whistleblowing and news leaks
-* Purchase or sale of illicit or illegal goods or services[14]
+* Purchase or sale of illicit or illegal goods or services.[14]
 * Circumvent network censorship and content-filtering systems, or to bypass restrictive firewall-policies.[15]
 * Exercising human rights such as the right to speak or contract free from commercial or state interference.
 * Avoiding emotional battery (crime) such as that may be inflicted as a result of neuromarketing.
@@ -282,6 +282,7 @@ gnunet://ecrs/chk/9E4MDN4VULE8KJG6U1C8FKH5HA8C5CHSJTILRTTPGK8MJ6VHORERHE68JU8Q0F
 * [Subgraph OS](https://subgraph.com/sgos/)
 * [Parrot Security OS](https://www.parrotsec.org/)
 * [PureOS](https://www.pureos.net/)
+* [Clip OS](https://github.com/CLIPOS/)
 
 
 **Directory**
