@@ -404,12 +404,81 @@ gnunet://ecrs/chk/9E4MDN4VULE8KJG6U1C8FKH5HA8C5CHSJTILRTTPGK8MJ6VHORERHE68JU8Q0F
 * [Bitmessage](https://bitmessage.org/)
 * [Eepsite](http://eepsite.com/)
 * [FoxyProxy addon](https://getfoxyproxy.org/)
-* <s>[HideMyAss](https://www.hidemyass.com/proxy)</s>
 * [I2hostetag](http://i2host.i2p.xyz/cgi-bin/i2hostetag)
 * [Use I2P in Web-browsers](https://geti2p.net/en/about/browser-config)
 * [Using Freenet](https://wiki.freenetproject.org/Using_Freenet)
 * [Tor: Design Requirements and Philosophy](https://www.torproject.org/projects/torbrowser/design/#philosophy)
 * [Schneier on Security](https://www.schneier.com/)
+
+
+**Reverse Proxy** 
+
+- [Cloudflare](https://www.cloudflare.com)
+- [blazingfast.io](https://blazingfast.io)
+- [ddos-guard.net](https://ddos-guard.net/en)
+- [bitmitigate.com](https://bitmitigate.com)
+- [puroxy.org](https://puroxy.org)
+- [x4b.net](https://www.x4b.net)
+- [Geniusguard.com](https://www.geniusguard.com)
+
+
+**Hosting Providers**
+
+* [server.ua](https://server.ua/en)
+* [hostpro.ua](https://hostpro.ua/en)/
+* [www.urdn.com.ua](https://www.urdn.com.ua)
+* [uanode.net](https://uanode.net)
+* [0x2a.com.ua](https://0x2a.com.ua/en/)
+* [hostfory.com](https://hostfory.com)
+* [yisp.nl](https://yisp.nl)
+* [sinaro.host](https://sinaro.host)
+* [cherryservers.com](https://www.cherryservers.com)
+* [maple-hosting.com](https://www.maple-hosting.com)
+* [abelohost.com](https://abelohost.com)
+* [nforce.com](https://www.nforce.com)
+* [hostsailor.com](https://hostsailor.com)
+* [serverastra.com](https://serverastra.com)
+* [clientvps.com](https://www.clientvps.com)
+* [unitvps.com](https://www.unitvps.com)
+* [dataplugs.com](https://www.dataplugs.com/en/)
+* [ctclouds.com](https://ctclouds.com)
+* [vinahost.vn](https://vinahost.vn/en)
+* [pavietnam.vn](https://www.pavietnam.vn/en/)
+* [elkupi.com](https://elkupi.com)
+* [dataclub.eu](https://www.dataclub.eu)
+* [saaki.net](https://www.saaki.net)
+* [sibyl.li](https://sibyl.li)
+* [gohost.kz](https://gohost.kz/?language=english)
+* [m247.com](https://m247.com/services/m-host/)
+* [alexhost.com](https://alexhost.com)
+* [flokinet.is](https://flokinet.is)
+* [nicevps.net](https://nicevps.net)
+* [dmzhost.co](https://dmzhost.co)
+* [bulletshield.su](https://bulletshield.su)
+* [lolekhosted.net](https://lolekhosted.net)
+* [zomro.net](https://zomro.net)
+* [selectel.ru](https://selectel.ru/en/)
+* [vscale.io](https://vscale.io/en/)
+* [veesp.com](https://veesp.com/en/)
+* [ialgo.com](https://ialgo.com)
+* [aminserve.com](https://aminserve.com)
+* [icyevolution.com](https://www.icyevolution.com)
+* [libertyvps.net](https://libertyvps.net)
+* [webcare360.com](https://webcare360.com)
+* [swedendedicated.com](https://swedendedicated.com)
+* [koddos.net](https://koddos.net)
+* [blueangelhost.com](https://www.blueangelhost.com)
+* [superbithost.com](https://www.superbithost.com)
+* [racknation.cr](https://www.racknation.cr)
+* [edis.at](https://www.edis.at/en/)
+* [ninet.rs](https://ninet.rs/en/)
+* [mcloud.rs](https://mcloud.rs/en/)
+
+
+**Tor Hosts**
+
+* [onehostcloud.hosting](https://onehostcloud.hosting)
+* [impreza.host](https://impreza.host/en/)
 
 
 **Further Reading**
