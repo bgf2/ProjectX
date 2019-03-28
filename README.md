@@ -6,32 +6,31 @@ ProjectX file original created under the MIT license 2015 - 2019 by [CHEF-KOCH](
 [![Tip Me via PayPal](https://img.shields.io/badge/PayPal-tip%20me-green.svg?logo=paypal)](https://www.paypal.me/nvinside)
 
 
-DarkWeb pages overview (yet another one) is designed to show [Deep Web](https://en.wikipedia.org/wiki/Deep_Web) specific pages, software and other related information.
+DarkWeb pages overview (yet another one) is designed to show [Deep Web](https://en.wikipedia.org/wiki/Deep_Web) specific pages, software and other information around the deeper web.
 
 Darknet in general may be used for various reasons, such as:
 
-* Computer crime (cracking, file corruption etc.)
-* Protecting dissidents from political reprisal
-* File sharing (warez, personal files, pornography, confidential files, illegal or counterfeit software etc.)
-* To better protect the privacy rights of citizens from targeted and mass surveillance
-* Sale of restricted goods on darknet markets
-* Whistleblowing and news leaks
+* Computer crime (cracking, file corruption etc.).
+* Protecting dissidents from political reprisal.
+* File sharing (warez, personal files, pornography, confidential files, illegal or counterfeit software etc.).
+* To better protect the privacy rights of citizens from targeted and mass surveillance.
+* Sale of restricted goods on darknet markets.
+* Whistleblowing and news leaks.
 * Purchase or sale of illicit or illegal goods or services.
 * Circumvent network censorship and content-filtering systems, or to bypass restrictive firewall-policies.
 * Exercising human rights such as the right to speak or contract free from commercial or state interference.
 * Avoiding emotional battery (crime) such as that may be inflicted as a result of neuromarketing.
-* Refusing to consent to surveillance on communications networks where no right to consent is formally recognized or honored between the * Internet Service Provider and the end user.
 
 
 **Censorship Circumvention Tools**
 
 * [GoAgent](https://trac.torproject.org/projects/tor/wiki/doc/GoAgent)
-* [scotty transporter](http://www.scotty-transporter.org/)
+* [Scotty transporter](http://www.scotty-transporter.org/)
 * [IP over mail tunnel](https://github.com/altoor/IPoEM)
 * [Psiphon](https://psiphon.ca/)
 * [Lahana](http://lahana.dreamcats.org/node-howto/)
 * [Telex](https://telex.cc/)
-* [your freedom](https://www.your-freedom.net/)
+* [Your Freedom](https://www.your-freedom.net/)
 
 
 **Software Projects**
