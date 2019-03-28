@@ -1,4 +1,4 @@
-ProjectX file original created under the MIT license 2015 - 2018 by [CHEF-KOCH](https://github.com/CHEF-KOCH).
+ProjectX file original created under the MIT license 2015 - 2019 by [CHEF-KOCH](https://github.com/CHEF-KOCH).
 
 [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/fold_left.svg?style=social&label=Follow%20%40CHEF-KOCH)](https://twitter.com/FZeven)
 [![Say Thanks!](https://img.shields.io/badge/Say%20Thanks-!-1EAEDB.svg)](https://saythanks.io/to/CHEF-KOCH)
@@ -212,6 +212,7 @@ To use I2P (https://geti2p.net/), obtain and install the I2P jar file (https://g
 * [Eepsites](http://eepsites.i2p)
 * [Epsilon](http://epsilon.i2p)
 * [Eye](http://eye.i2p)
+* [Onion list - safe onion links list](https://onionlist.org/)
 
 
 **Shopping (I2P)**
