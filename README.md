@@ -214,6 +214,9 @@ To use I2P (https://geti2p.net/), obtain and install the I2P jar file (https://g
 * [Eye](http://eye.i2p)
 * [Onion list - safe onion links list](https://onionlist.org/) + [Full version as Onion link](onionlstmjc7qkmj.onion)
 
+**Search Engines (File Sharing)**
+* [Mega.nz Search Engine](http://megasearch.co/)
+
 
 **Shopping (I2P)**
 
@@ -425,7 +428,7 @@ gnunet://ecrs/chk/9E4MDN4VULE8KJG6U1C8FKH5HA8C5CHSJTILRTTPGK8MJ6VHORERHE68JU8Q0F
 **Hosting Providers**
 
 * [server.ua](https://server.ua/en)
-* [hostpro.ua](https://hostpro.ua/en)/
+* [hostpro.ua](https://hostpro.ua/en)
 * [www.urdn.com.ua](https://www.urdn.com.ua)
 * [uanode.net](https://uanode.net)
 * [0x2a.com.ua](https://0x2a.com.ua/en/)
@@ -495,4 +498,5 @@ gnunet://ecrs/chk/9E4MDN4VULE8KJG6U1C8FKH5HA8C5CHSJTILRTTPGK8MJ6VHORERHE68JU8Q0F
 * [Deep Web - Reddit](https://www.reddit.com/r/deepweb)
 * [Massive Deep Web Links 2015](http://securityzap.com/massive-deep-web-links-2015-updated-june-2015/#sthash.SoD6BtvO.dpbs)
 * [(.pdf) Tor Security overview at BlackHat (for experts)](https://www.blackhat.com/presentations/bh-usa-07/Perry/Whitepaper/bh-usa-07-perry-WP.pdf)
-* [Online Privacy Tes Resource List](https://github.com/CHEF-KOCH/Online-Privacy-Test-Resource-List)
+* [Online Privacy Test Resource List](https://github.com/CHEF-KOCH/Online-Privacy-Test-Resource-List)
+* [Warez Overview list](https://github.com/CHEF-KOCH/Warez)
