@@ -16,8 +16,8 @@ Darknet in general may be used for various reasons, such as:
 * To better protect the privacy rights of citizens from targeted and mass surveillance
 * Sale of restricted goods on darknet markets
 * Whistleblowing and news leaks
-* Purchase or sale of illicit or illegal goods or services.[14]
-* Circumvent network censorship and content-filtering systems, or to bypass restrictive firewall-policies.[15]
+* Purchase or sale of illicit or illegal goods or services.
+* Circumvent network censorship and content-filtering systems, or to bypass restrictive firewall-policies.
 * Exercising human rights such as the right to speak or contract free from commercial or state interference.
 * Avoiding emotional battery (crime) such as that may be inflicted as a result of neuromarketing.
 * Refusing to consent to surveillance on communications networks where no right to consent is formally recognized or honored between the * Internet Service Provider and the end user.
@@ -212,7 +212,7 @@ To use I2P (https://geti2p.net/), obtain and install the I2P jar file (https://g
 * [Eepsites](http://eepsites.i2p)
 * [Epsilon](http://epsilon.i2p)
 * [Eye](http://eye.i2p)
-* [Onion list - safe onion links list](https://onionlist.org/)
+* [Onion list - safe onion links list](https://onionlist.org/) + [Full version as Onion link](onionlstmjc7qkmj.onion)
 
 
 **Shopping (I2P)**
@@ -307,9 +307,8 @@ gnunet://ecrs/chk/9E4MDN4VULE8KJG6U1C8FKH5HA8C5CHSJTILRTTPGK8MJ6VHORERHE68JU8Q0F
 * [Tor Mail](http://jhiwjjlqpyawmpjx.onion/)
 * [Scramble](https://scramble.io/)
 * [Sigma](https://sigma.email/)
-* [ProtonMail](https://protonmail.ch/)
 * [DarkMail](https://darkmail.info/)
-* [Sigaint](https://www.sigaint.org/) (Has onion address)
+* [Sigaint](https://www.sigaint.org/)
 * [Mail2Tor](http://mail2tor.com/)
 * [RuggedInbox](http://s4bysmmsnraf7eut.onion/)
 
