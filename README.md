@@ -65,6 +65,7 @@ Darknet in general may be used for various reasons, such as:
 * [VPN Gate](http://www.vpngate.net/en/)
 * [iodine DNS](https://code.kryo.se/iodine/)
 * freegate (Officially only available for China & Iran, questionable trustworthiness)
+* [SILO](https://medium.com/arweave-updates/building-silo-a-truly-private-internet-556c860222ca)
 
 
 **DarkWeb Gateways**
