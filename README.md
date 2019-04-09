@@ -24,6 +24,10 @@ Darknet in general may be used for various reasons, such as:
 
 **Censorship Circumvention Tools**
 
+* [Anonymizer](http://www.anonymizer.com/)
+* [CGIProxy](http://www.jmarshall.com/)
+* [Alkasir](https://www.alkasir.com/)
+* [Freenet](https://freenetproject.org/) & [Wiki](https://wiki.freenetproject.org/)
 * [GoAgent](https://trac.torproject.org/projects/tor/wiki/doc/GoAgent)
 * [Scotty transporter](http://www.scotty-transporter.org/)
 * [IP over mail tunnel](https://github.com/altoor/IPoEM)
@@ -31,21 +35,22 @@ Darknet in general may be used for various reasons, such as:
 * [Lahana](http://lahana.dreamcats.org/node-howto/)
 * [Telex](https://telex.cc/)
 * [Your Freedom](https://www.your-freedom.net/)
+* [I2P Project](https://geti2p.net/)
+* [Tor Project](https://www.torproject.org/) & [Source](https://gitweb.torproject.org/)
+* [StupidCensorship](https://web.archive.org/web/20110208101819/http://stupidcensorship.com/)
+* [Ultrasurf](http://www.ultrasurf.us/)
+* [Java Anon Proxy](https://anonymous-proxy-servers.net/en/)
 
 
 **Software Projects**
 
-* [Freenet](https://freenetproject.org/) & [Wiki](https://wiki.freenetproject.org/)
 * [Dat Project](https://datproject.org/) & [Source](https://github.com/datproject) (Browsable with the [Beaker Browser](https://beakerbrowser.com/))
 * [Decentralized network 42 (dn42)](https://dn42.eu/Home) & [FAQ](https://dn42.eu/FAQ)
 * [GNUnet](https://gnunet.org/) & [Source](https://github.com/GNUnet/gnunet)
-* [I2P Project](https://geti2p.net/)
 * [IPFS](https://ipfs.io/) & [Source](https://github.com/ipfs)
-* [Tor Project](https://www.torproject.org/) & [Source](https://gitweb.torproject.org/)
 * [JAP (Jondonym-Anonymous-Proxy-Server)](https://anonymous-proxy-servers.net) 
 * [Retroshare](https://github.com/RetroShare/RetroShare)
 * [Shadowsocks](https://github.com/shadowsocks/) (bypass e.g. chinese firewalls)
-* [Alkasir](https://alkasir.com/)
 * Drony / Orxify / Orbot / Orky
 * [Lantern](https://github.com/getlantern/lantern)
 * [Psiphon](https://s3.amazonaws.com/irw7-3wt4-sic4/en/download.html)
@@ -64,7 +69,7 @@ Darknet in general may be used for various reasons, such as:
 * [Algo VPN](https://github.com/trailofbits/algo)
 * [VPN Gate](http://www.vpngate.net/en/)
 * [iodine DNS](https://code.kryo.se/iodine/)
-* freegate (Officially only available for China & Iran, questionable trustworthiness)
+* [freegate](http://dit-inc.us/freegate.html) (Officially only available for China & Iran, questionable trustworthiness)
 * [SILO](https://medium.com/arweave-updates/building-silo-a-truly-private-internet-556c860222ca)
 
 
